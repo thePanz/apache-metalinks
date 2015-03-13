@@ -1,0 +1,9 @@
+{
+    "name": "",
+    "description": "",
+    "type": "",
+    "license": "MIT",
+    "require": {
+        "pnz/metalink": "1.*@dev"
+    }
+}
